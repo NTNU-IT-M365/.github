@@ -1,0 +1,2 @@
+# NTNU IT - M365
+M365 at NTNU.
