@@ -1,2 +1,2 @@
 ## NTNU IT - Microsoft 365 Driftsteam
-...
+:-)
