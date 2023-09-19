@@ -1,2 +1,2 @@
-## NTNU IT - M365 Driftsteam
+## NTNU IT - Microsoft 365 Driftsteam
 ...
